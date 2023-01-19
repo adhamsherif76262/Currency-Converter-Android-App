@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string-array name="Currency_Spinner_Options">
+        <item>US_Dollar</item>
+        <item>Euro</item>
+        <item>Sterling</item>
+        <item>kuwaiti_Dinar</item>
+        <item>Saudi_Riyal</item>
+    </string-array>
+</resources>
